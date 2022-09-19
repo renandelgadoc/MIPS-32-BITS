@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="OAC_Lab2">
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|lpm_mux10:inst24|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_0de.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|BancoRegistradores:inst3|lpm_decode0:inst11|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_ngf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|BancoRegistradores:inst3|lpm_mux6:inst68|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_nee.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|RAMThiago:inst15|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_mgs3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|ROMRenan:inst13|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_16t3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|ULA32:inst18|lpm_mux4:inst|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_0de.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|lpm_mux7:inst5|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_gbe.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|BancoRegistradores:inst3|lpm_mux6:inst69|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_nee.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|ULA32:inst18|lpm_add_sub1:inst8|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_ekj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|ULA32:inst18|lpm_mux4:inst1|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_0de.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|ULA32:inst19|lpm_mux4:inst|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_0de.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|lpm_add_sub2:inst25|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_p1i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|lpm_mux9:inst17|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_0de.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|ULA32:inst18|lpm_mux5:inst9|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_3de.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|ULA32:inst19|lpm_add_sub1:inst8|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_ekj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|ULA32:inst19|lpm_mux4:inst1|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_0de.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|lpm_mux8:inst6|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_0de.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OAC_Lab2|ULA32:inst19|lpm_mux5:inst9|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_3de.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

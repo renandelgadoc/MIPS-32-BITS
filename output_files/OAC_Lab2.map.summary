@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Sun Sep 18 21:34:55 2022
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : OAC_Lab2
+Top-level Entity Name : OAC_Lab2
+Family : Cyclone IV GX
+Total logic elements : 2,612
+    Total combinational functions : 1,652
+    Dedicated logic registers : 993
+Total registers : 993
+Total pins : 207
+Total virtual pins : 0
+Total memory bits : 16,384
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0

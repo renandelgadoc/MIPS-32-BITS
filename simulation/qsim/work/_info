@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Thiago\Documents\UnB\OrganizaçãoeArquiteturadeComputadores\Projeto2\Quartus\simulation\qsim
+vOAC_Lab2
+Z1 Ik>maDf509LW^685aUD>1V0
+Z2 VmUSFCJPZ>nD52_m`MJP6j1
+Z3 dC:\Users\Thiago\Documents\UnB\OrganizaçãoeArquiteturadeComputadores\Projeto2\Quartus\simulation\qsim
+Z4 w1663547782
+Z5 8OAC_Lab2.vo
+Z6 FOAC_Lab2.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|OAC_Lab2.vo|
+Z9 o-work work -O0
+Z10 n@o@a@c_@lab2
+!i10b 1
+Z11 !s100 3=Jn1hao0cJo8fhK9=H2K2
+!s85 0
+Z12 !s108 1663547783.815000
+Z13 !s107 OAC_Lab2.vo|
+!s101 -O0
+vOAC_Lab2_vlg_check_tst
+!i10b 1
+!s100 DXGll;`kD[]7d;jAbi<ll2
+IYdEizT<Em8fSKnN_GFWCe1
+Vh:G8YS_5oA^=P`[cTT<k=1
+R3
+Z14 w1663547781
+Z15 8Waveform13.vwf.vt
+Z16 FWaveform13.vwf.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1663547784.265000
+Z18 !s107 Waveform13.vwf.vt|
+Z19 !s90 -work|work|Waveform13.vwf.vt|
+!s101 -O0
+R9
+Z20 n@o@a@c_@lab2_vlg_check_tst
+vOAC_Lab2_vlg_sample_tst
+!i10b 1
+Z21 !s100 =N[dJjl0=`:Nn;E6CJaS10
+Z22 IQOMhMfi=TGJIH5k8lmD5:0
+Z23 V@Kz=lGgSRPfc>A96OT=;A2
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+Z24 n@o@a@c_@lab2_vlg_sample_tst
+vOAC_Lab2_vlg_vec_tst
+!i10b 1
+!s100 DP>mZ;`C7c7a:Alc<AO?T0
+II@dHGMLn2J6QN82Ug];Uj2
+Z25 VjH98eGdMZ:z4GdAgP1_2i3
+R3
+R14
+R15
+R16
+L0 3573
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+Z26 n@o@a@c_@lab2_vlg_vec_tst
