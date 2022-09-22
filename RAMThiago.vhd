@@ -67,7 +67,7 @@ BEGIN
 		clock_enable_input_a => "BYPASS",
 		clock_enable_input_b => "BYPASS",
 		clock_enable_output_b => "BYPASS",
-		init_file => "../Uniciclo/UnicicloData.mif",
+		init_file => "../Uniciclo/gabNivel3_data.mif",
 		intended_device_family => "Cyclone IV GX",
 		lpm_type => "altsyncram",
 		maximum_depth => 512,
@@ -134,7 +134,7 @@ END SYN;
 -- Retrieval info: PRIVATE: MAXIMUM_DEPTH NUMERIC "512"
 -- Retrieval info: PRIVATE: MEMSIZE NUMERIC "8192"
 -- Retrieval info: PRIVATE: MEM_IN_BITS NUMERIC "1"
--- Retrieval info: PRIVATE: MIFfilename STRING "../Uniciclo/UnicicloData.mif"
+-- Retrieval info: PRIVATE: MIFfilename STRING "../Uniciclo/gabNivel3_data.mif"
 -- Retrieval info: PRIVATE: OPERATION_MODE NUMERIC "2"
 -- Retrieval info: PRIVATE: OUTDATA_ACLR_B NUMERIC "0"
 -- Retrieval info: PRIVATE: OUTDATA_REG_B NUMERIC "1"
@@ -167,7 +167,7 @@ END SYN;
 -- Retrieval info: CONSTANT: CLOCK_ENABLE_INPUT_A STRING "BYPASS"
 -- Retrieval info: CONSTANT: CLOCK_ENABLE_INPUT_B STRING "BYPASS"
 -- Retrieval info: CONSTANT: CLOCK_ENABLE_OUTPUT_B STRING "BYPASS"
--- Retrieval info: CONSTANT: INIT_FILE STRING "../Uniciclo/UnicicloData.mif"
+-- Retrieval info: CONSTANT: INIT_FILE STRING "../Uniciclo/gabNivel3_data.mif"
 -- Retrieval info: CONSTANT: INTENDED_DEVICE_FAMILY STRING "Cyclone IV GX"
 -- Retrieval info: CONSTANT: LPM_TYPE STRING "altsyncram"
 -- Retrieval info: CONSTANT: MAXIMUM_DEPTH NUMERIC "512"
