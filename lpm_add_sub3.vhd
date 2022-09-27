@@ -4,7 +4,7 @@
 -- MODULE: LPM_ADD_SUB 
 
 -- ============================================================
--- File Name: lpm_add_sub2.vhd
+-- File Name: lpm_add_sub3.vhd
 -- Megafunction Name(s):
 -- 			LPM_ADD_SUB
 --
@@ -39,16 +39,16 @@ USE ieee.std_logic_1164.all;
 LIBRARY lpm;
 USE lpm.all;
 
-ENTITY lpm_add_sub2 IS
+ENTITY lpm_add_sub3 IS
 	PORT
 	(
 		dataa		: IN STD_LOGIC_VECTOR (31 DOWNTO 0);
 		result		: OUT STD_LOGIC_VECTOR (31 DOWNTO 0)
 	);
-END lpm_add_sub2;
+END lpm_add_sub3;
 
 
-ARCHITECTURE SYN OF lpm_add_sub2 IS
+ARCHITECTURE SYN OF lpm_add_sub3 IS
 
 	SIGNAL sub_wire0	: STD_LOGIC_VECTOR (31 DOWNTO 0);
 	SIGNAL sub_wire1_bv	: BIT_VECTOR (31 DOWNTO 0);
@@ -128,9 +128,9 @@ END SYN;
 -- Retrieval info: CONNECT: @dataa 0 0 32 0 dataa 0 0 32 0
 -- Retrieval info: CONNECT: @datab 0 0 32 0 1 0 0 32 0
 -- Retrieval info: CONNECT: result 0 0 32 0 @result 0 0 32 0
--- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_add_sub2.vhd TRUE
--- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_add_sub2.inc FALSE
--- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_add_sub2.cmp TRUE
--- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_add_sub2.bsf TRUE FALSE
--- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_add_sub2_inst.vhd FALSE
+-- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_add_sub3.vhd TRUE
+-- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_add_sub3.inc FALSE
+-- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_add_sub3.cmp TRUE
+-- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_add_sub3.bsf TRUE
+-- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_add_sub3_inst.vhd FALSE
 -- Retrieval info: LIB_FILE: lpm
